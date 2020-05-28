@@ -1,0 +1,110 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+2J0K_B                 ----------------------------------RVLKVFHYFENSSEPTTWASIIRHGD	26
+2J0K_A                 ----------------------------------RVLKVFHYFENSSEPTTWASIIRHGD	26
+2J0J                   ----------------------------------RVLKVFHYFENSSEPTTWASIIRHGD	26
+Q00944_FAK1_CHICK      MAAAYLDPNLNHTPSSSAKTHLGTGMERSPGAMERVLKVFHYFENSSEPTTWASIIRHGD	60
+                                                         **************************
+
+2J0K_B                 ATDVRGIIQKIVDCHKVKNVACYGLRLSHLQSEEVHWLHLDMGVSNVREKFELAHPPEEW	86
+2J0K_A                 ATDVRGIIQKIVDCHKVKNVACYGLRLSHLQSEEVHWLHLDMGVSNVREKFELAHPPEEW	86
+2J0J                   ATDVRGIIQKIVDCHKVKNVACYGLRLSHLQSEEVHWLHLDMGVSNVREKFELAHPPEEW	86
+Q00944_FAK1_CHICK      ATDVRGIIQKIVDCHKVKNVACYGLRLSHLQSEEVHWLHLDMGVSNVREKFELAHPPEEW	120
+                       ************************************************************
+
+2J0K_B                 KYELRIRYLPKGFLNQFTEDKPTLNFFYQQVKNDYMLEIADQVDQEIALKLGCLEIRRSY	146
+2J0K_A                 KYELRIRYLPKGFLNQFTEDKPTLNFFYQQVKNDYMLEIADQVDQEIALKLGCLEIRRSY	146
+2J0J                   KYELRIRYLPKGFLNQFTEDKPTLNFFYQQVKNDYMLEIADQVDQEIALKLGCLEIRRSY	146
+Q00944_FAK1_CHICK      KYELRIRYLPKGFLNQFTEDKPTLNFFYQQVKNDYMLEIADQVDQEIALKLGCLEIRRSY	180
+                       ************************************************************
+
+2J0K_B                 GEMRGNALEKKSNYEVLEKDVGLRRFFPKSLLDSVKAKTLRKLIQQTFRQFANLNREESI	206
+2J0K_A                 GEMRGNALEKKSNYEVLEKDVGLRRFFPKSLLDSVKAKTLRKLIQQTFRQFANLNREESI	206
+2J0J                   GEMRGNALEKKSNYEVLEKDVGLRRFFPKSLLDSVKAKTLRKLIQQTFRQFANLNREESI	206
+Q00944_FAK1_CHICK      GEMRGNALEKKSNYEVLEKDVGLRRFFPKSLLDSVKAKTLRKLIQQTFRQFANLNREESI	240
+                       ************************************************************
+
+2J0K_B                 LKFFEILSPVYRFDKECFKCALGSSWIISVELAIGPEEGISYLTDKGANPTHLADFNQVQ	266
+2J0K_A                 LKFFEILSPVYRFDKECFKCALGSSWIISVELAIGPEEGISYLTDKGANPTHLADFNQVQ	266
+2J0J                   LKFFEILSPVYRFDKECFKCALGSSWIISVELAIGPEEGISYLTDKGANPTHLADFNQVQ	266
+Q00944_FAK1_CHICK      LKFFEILSPVYRFDKECFKCALGSSWIISVELAIGPEEGISYLTDKGANPTHLADFNQVQ	300
+                       ************************************************************
+
+2J0K_B                 TIQYSNSEDKDRKGMLQLKIAGAPEPLTVTAPSLTIAENMADLIDGYCRLVNGATQSFII	326
+2J0K_A                 TIQYSNSEDKDRKGMLQLKIAGAPEPLTVTAPSLTIAENMADLIDGYCRLVNGATQSFII	326
+2J0J                   TIQYSNSEDKDRKGMLQLKIAGAPEPLTVTAPSLTIAENMADLIDGYCRLVNGATQSFII	326
+Q00944_FAK1_CHICK      TIQYSNSEDKDRKGMLQLKIAGAPEPLTVTAPSLTIAENMADLIDGYCRLVNGATQSFII	360
+                       ************************************************************
+
+2J0K_B                 RP--------------------GVRSHT------DDYAEIIDEEDTYTMPSTRDYEIQRE	360
+2J0K_A                 RP-------------------------------TDDYAEIIDE--------TRDYEIQRE	347
+2J0J                   RP-------------------------------TDDYAEIIDEEDTYTMPSTRDYEIQRE	355
+Q00944_FAK1_CHICK      RPQKEGERALPSIPKLANNEKQGVRSHTVSVSETDDYAEIIDEEDTYTMPSTRDYEIQRE	420
+                       **                               **********        *********
+
+2J0K_B                 RIELGRCIGEGQFGDVHQGIYMSPENPAMAVAIKTCKNCTSDSVREKFLQEALTMRQFDH	420
+2J0K_A                 RIELGRCIGEGQFGDVHQGIYMSPENPAMAVAIKTCKNCTSDSVREKFLQEALTMRQFDH	407
+2J0J                   RIELGRCIGEGQFGDVHQGIYMSPENPAMAVAIKTCKNCTSDSVREKFLQEALTMRQFDH	415
+Q00944_FAK1_CHICK      RIELGRCIGEGQFGDVHQGIYMSPENPAMAVAIKTCKNCTSDSVREKFLQEALTMRQFDH	480
+                       ************************************************************
+
+2J0K_B                 PHIVKLIGVITENPVWIIMELCTLGELRSFLQVRKFSLDLASLILYAYQLSTALAYLESK	480
+2J0K_A                 PHIVKLIGVITENPVWIIMELCTLGELRSFLQVRKFSLDLASLILYAYQLSTALAYLESK	467
+2J0J                   PHIVKLIGVITENPVWIIMELCTLGELRSFLQVRKFSLDLASLILYAYQLSTALAYLESK	475
+Q00944_FAK1_CHICK      PHIVKLIGVITENPVWIIMELCTLGELRSFLQVRKFSLDLASLILYAYQLSTALAYLESK	540
+                       ************************************************************
+
+2J0K_B                 RFVHRDIAARNVLVSATDCVKLGDFGLSR--------------LPIKWMAPESINFRRFT	526
+2J0K_A                 RFVHRDIAARNVLVSATDCVKLGDFGLK---------------LPIKWMAPESINFRRFT	512
+2J0J                   RFVHRDIAARNVLVSSNDCVKLGDFGLSRYMED----------LPIKWMAPESINFRRFT	525
+Q00944_FAK1_CHICK      RFVHRDIAARNVLVSATDCVKLGDFGLSRYMEDSTYYKASKGKLPIKWMAPESINFRRFT	600
+                       ***************:.**********.               *****************
+
+2J0K_B                 SASDVWMFGVCMWEILMHGVKPFQGVKNNDVIGRIENGERLPMPPNCPPTLYSLMTKCWA	586
+2J0K_A                 SASDVWMFGVCMWEILMHGVKPFQGVKNNDVIGRIENGERLPMPPNCPPTLYSLMTKCWA	572
+2J0J                   SASDVWMFGVCMWEILMHGVKPFQGVKNNDVIGRIENGERLPMPPNCPPTLYSLMTKCWA	585
+Q00944_FAK1_CHICK      SASDVWMFGVCMWEILMHGVKPFQGVKNNDVIGRIENGERLPMPPNCPPTLYSLMTKCWA	660
+                       ************************************************************
+
+2J0K_B                 YDPSRRPRFTELKAQLSTILEEEKLQ----------------------------------	612
+2J0K_A                 YDPSRRPRFTELKAQLSTILEEEKLQ----------------------------------	598
+2J0J                   YDPSRRPRFTELKAQLSTILEEEKLQ----------------------------------	611
+Q00944_FAK1_CHICK      YDPSRRPRFTELKAQLSTILEEEKLQQEERMRMESRRQVTVSWDSGGSDEAPPKPSRPGY	720
+                       **************************                                  
+
+2J0K_B                 ------------------------------------------------------------	612
+2J0K_A                 ------------------------------------------------------------	598
+2J0J                   ------------------------------------------------------------	611
+Q00944_FAK1_CHICK      PSPRSSEGFYPSPQHMVQPNHYQVSGYSGSHGIPAMAGSIYPGQASLLDQTDSWNHRPQE	780
+                                                                                   
+
+2J0K_B                 ------------------------------------------------------------	612
+2J0K_A                 ------------------------------------------------------------	598
+2J0J                   ------------------------------------------------------------	611
+Q00944_FAK1_CHICK      VSAWQPNMEDSGTLDVRGMGQVLPTHLMEERLIRQQQEMEEDQRWLEKEERFLVMKPDVR	840
+                                                                                   
+
+2J0K_B                 ------------------------------------------------------------	612
+2J0K_A                 ------------------------------------------------------------	598
+2J0J                   ------------------------------------------------------------	611
+Q00944_FAK1_CHICK      LSRGSIEREDGGLQGPAGNQHIYQPVGKPDHAAPPKKPPRPGAPHLGSLASLNSPVDSYN	900
+                                                                                   
+
+2J0K_B                 ------------------------------------------------------------	612
+2J0K_A                 ------------------------------------------------------------	598
+2J0J                   ------------------------------------------------------------	611
+Q00944_FAK1_CHICK      EGVKIKPQEISPPPTANLDRSNDKVYENVTGLVKAVIEMSSKIQPAPPEEYVPMVKEVGL	960
+                                                                                   
+
+2J0K_B                 ------------------------------------------------------------	612
+2J0K_A                 ------------------------------------------------------------	598
+2J0J                   ------------------------------------------------------------	611
+Q00944_FAK1_CHICK      ALRTLLATVDESLPVLPASTHREIEMAQKLLNSDLAELINKMKLAQQYVMTSLQQEYKKQ	1020
+                                                                                   
+
+2J0K_B                 ---------------------------------	612
+2J0K_A                 ---------------------------------	598
+2J0J                   ---------------------------------	611
+Q00944_FAK1_CHICK      MLTAAHALAVDAKNLLDVIDQARLKMISQSRPH	1053
+             
