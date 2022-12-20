@@ -5,7 +5,7 @@ Repository associated to the publication:
 
 GSNOR deficiency promotes anchorage-independent tumor growth via FAK1 S-nitrosylation
 
-Salvatore Rizza, Luca Di Leo, Chiara Pecorari, Paola Giglio, Fiorella Faienza, Costanza Montagna, Emiliano Maiani, Michele Puglia, Francesca M. Bosisio, Trine Skov Petersen, Lin Lin, Vendela Rissler, Juan Salamanca Viloria, Yonglun Luo, Elena Papaleo, Daniela De Zio, Blagoy Blagoev and Giuseppe Filomeni, submitted 
+Salvatore Rizza, Luca Di Leo, Chiara Pecorari, Paola Giglio, Fiorella Faienza, Costanza Montagna, Emiliano Maiani, Michele Puglia, Francesca M. Bosisio, Trine Skov Petersen, Lin Lin, Vendela Rissler, Juan Salamanca Viloria, Yonglun Luo, Elena Papaleo, Daniela De Zio, Blagoy Blagoev and Giuseppe Filomeni, in press, Cell Reports
 
 contact for repository:  elenap-at-cancer.dk
 
